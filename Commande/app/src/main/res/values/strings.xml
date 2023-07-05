@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Commande</string>
+    <!--PartieSurPlace-->
+    <string name="Nom_Restaurant">LunchCool</string>
+
+    <string name="Type_Commande">Sur place</string>
+    <string name="Nb_Personnes">Nombre de personnes</string>
+    <string name="Question">Voulez-vous avoir un ou des serveurs qui viennent vous voir? </string>
+    <string name="Choix_1">Serveur</string>
+    <string name="Choix_2">Pas de serveur</string>
+    <string name="button_Valide">Valider</string>
+    <string name="button_Installer">Je suis installé</string>
+    <string name="button_Precedent">Précédent</string>
+    <string name="todo">TODO</string>
+    <string name="bonjour_jean">Bonjour Jean</string>
+    <string name="plat">Cheese burger</string>
+    <string name="Description">Description</string>
+    <string name="InfoPlat"></string>
+    <string name="PrixTitre">Prix</string>
+    <string name="Prix">9.00 € </string>
+    <string name="PanierAjout">Ajouter au panier </string>
+    <string name="salade">Salade</string>
+    <string name="cheese_burger">Cheese burger</string>
+    <string name="marguerita">Marguerita</string>
+    <string name="salade_la_mexicaine">Salade à la mexicaine</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="nosBurger">Nos burgers</string>
+    <string name="cheeseBurger">Cheese burger</string>
+
+    <string-array name="nb_personnes">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+
+
+    </string-array>
+
+    <string-array name="regime">
+        <item>Végétarien</item>
+        <item>Omnivore</item>
+        <item>Végan</item>
+
+
+    </string-array>
+
+
+</resources>
